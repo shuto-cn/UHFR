@@ -11,7 +11,7 @@
 <pre>ionic cordova plugin add https://github.com/shuto-cn/UHFR</pre>
 
 ## 示例程序
-https://github.com/shuto-cn/UHFDEMO
+https://github.com/shuto-cn/UHFRDEMO
 
 ## 目前提供的功能
 ### 单次询卡 - 读取卡的 EPC
